@@ -4,15 +4,18 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Building+Modern+Responsive+Websites;Passionate+Programmer+%F0%9F%94%A5;Always+Learning+New+Technologies+%F0%9F%9A%80;Welcome+To+My+GitHub+Profile+%E2%9C%A8" />
 
-<br>
+<p align="center">
+  <img width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=rajbalakumari&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-FullStack-orange?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/SpringBoot-Backend-success?style=for-the-badge&logo=springboot"/>
+  <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-informational?style=for-the-badge&logo=mysql"/>
+</p>
+<p align="center">
 
-<img src="https://img.shields.io/github/followers/rajbalakumari?style=for-the-badge&logo=github&color=00F7FF" />
-
-<img src="https://img.shields.io/github/stars/rajbalakumari?style=for-the-badge&logo=github&color=FFD700" />
-
-</div>
 
 ---
 
