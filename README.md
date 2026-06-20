@@ -96,7 +96,12 @@
 </p>
 
 ---
+<div align="center">
 
+![snake gif](https://raw.githubusercontent.com/rajbalakumari/rajbalakumari/output/github-snake-dark.svg)
+
+</div>
+---
 <h3 align="center">
 ⭐ Turning Ideas into Applications | Learning Every Day | Building the Future ⭐
 </h3>
