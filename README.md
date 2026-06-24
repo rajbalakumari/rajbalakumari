@@ -15,9 +15,17 @@
   <img src="https://img.shields.io/badge/MySQL-Database-informational?style=for-the-badge&logo=mysql"/>
 </p>
 <p align="center">
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rajbalakumari&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/rajbalakumari?style=for-the-badge&logo=github&color=00F7FF" />
+
+<img src="https://img.shields.io/github/stars/rajbalakumari?style=for-the-badge&logo=github&color=FFD700" />
+
+</p>
 
 
----
 
 ## 🚀 About Me
 
@@ -27,7 +35,7 @@
 - 🎯 Focused on writing clean, maintainable, and efficient code
 - 📚 Lifelong learner and technology enthusiast
 
----
+
 
 # 🚀 Tech Stack
 
@@ -37,7 +45,7 @@
 
 </div>
 
----
+
 
 
 # 📈 Contribution Graph
@@ -48,7 +56,7 @@
 
 </div>
 
----
+
 
 ## 📊 GitHub Analytics
 
@@ -64,7 +72,7 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rajbalakumari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
+
 # ⚡ Featured Skills
 
 <div align="center">
@@ -79,7 +87,7 @@
 
 </div>
 
----
+
 
 ## ✨ Developer Quote
 
@@ -87,7 +95,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
+
 
 ## 👀 Profile Views
 
@@ -95,13 +103,13 @@
   <img src="https://komarev.com/ghpvc/?username=rajbalakumari&style=for-the-badge&color=blueviolet" />
 </p>
 
----
+
 <div align="center">
 
 ![snake gif](https://raw.githubusercontent.com/rajbalakumari/rajbalakumari/output/github-snake-dark.svg)
 
 </div>
----
+
 <h3 align="center">
 ⭐ Turning Ideas into Applications | Learning Every Day | Building the Future ⭐
 </h3>
