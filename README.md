@@ -45,23 +45,9 @@
 
 </div>
 
-
-
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajbalakumari&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
-
-
 ## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=rajbalakumari&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajbalakumari&theme=github_dark" />
 </p>
 
 <p align="center">
@@ -69,8 +55,19 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=rajbalakumari&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rajbalakumari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajbalakumari&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
 
 
 # ⚡ Featured Skills
