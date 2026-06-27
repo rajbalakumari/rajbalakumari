@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajbalakumari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rajbalakumari&theme=prussian&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
