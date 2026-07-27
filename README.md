@@ -46,9 +46,7 @@
 </div>
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajbalakumari&theme=github_dark" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rajbalakumari&theme=prussian&hide_border=true" height="180"/>
