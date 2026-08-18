@@ -47,13 +47,16 @@ jobs:
           github_user_name: rajbalakumari
 
           # Premium pink / purple color theme
-          outputs: |
+          
+outputs: |
 
-            dist/github-snake.svg?color_snake=#B62BFF&color_dots=#141921,#4B0082,#B62BFF,#FF005C,#FF7AB8
+  dist/github-snake.svg?color_snake=%23D4AF37&color_dots=%23141921,%233D3215,%238B7326,%23D4AF37,%23F7E7A9
 
-            dist/github-snake-dark.svg?color_snake=#B62BFF&color_dots=#141921,#4B0082,#B62BFF,#FF005C,#FF7AB8
+  dist/github-snake-dark.svg?color_snake=%23D4AF37&color_dots=%23141921,%233D3215,%238B7326,%23D4AF37,%23F7E7A9
 
-            dist/ocean.gif?color_snake=#B62BFF&color_dots=#141921,#4B0082,#B62BFF,#FF005C,#FF7AB8&color_background=#141921
+  dist/ocean.gif?color_snake=%23D4AF37&color_dots=%23141921,%233D3215,%238B7326,%23D4AF37,%23F7E7A9&color_background=%23141921
+
+
 
         env:
 
