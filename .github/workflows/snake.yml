@@ -1,4 +1,4 @@
-```yaml
+
 name: GitHub Snake Game
 
 on:
@@ -76,4 +76,4 @@ outputs: |
           publish_branch: output
 
           commit_message: "Update snake animation [skip ci]"
-```
+
