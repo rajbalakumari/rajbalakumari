@@ -4,21 +4,24 @@ name: GitHub Snake Game
 on:
 
   # Schedule the workflow to run daily at midnight UTC
+
   schedule:
+
     - cron: "0 0 * * *"
 
+
   # Allow manual triggering of the workflow
+
   workflow_dispatch:
 
+
   # Trigger the workflow on pushes to the main branch
+
   push:
+
     branches:
+
       - main
-
-
-# Allow GitHub Actions to write the generated files
-permissions:
-  contents: write
 
 
 jobs:
@@ -33,39 +36,45 @@ jobs:
     steps:
 
       # Step 1: Checkout the repository
+
       - name: Checkout Repository
-        uses: actions/checkout@v4
+
+        uses: actions/checkout@v3
 
 
       # Step 2: Generate the snake animations
+
       - name: Generate GitHub Contributions Snake Animations
+
         uses: Platane/snk@v3
 
         with:
 
-          # YOUR GitHub username
-          github_user_name: rajbalakumari
+          # GitHub username to generate the animation for
 
-          # Premium pink / purple color theme
-          
-outputs: |
-
-  dist/github-snake.svg?color_snake=%23D4AF37&color_dots=%23141921,%233D3215,%238B7326,%23D4AF37,%23F7E7A9
-
-  dist/github-snake-dark.svg?color_snake=%23D4AF37&color_dots=%23141921,%233D3215,%238B7326,%23D4AF37,%23F7E7A9
-
-  dist/ocean.gif?color_snake=%23D4AF37&color_dots=%23141921,%233D3215,%238B7326,%23D4AF37,%23F7E7A9&color_background=%23141921
+          github_user_name: ${{ github.repository_owner }}
 
 
+          # Define the output files and their configurations
+
+          outputs: |
+
+            dist/github-snake.svg?color_snake=%23ff005c&color_dots=%23161b22,%23ff005c,%23ff005c,%23b62bff,%23ffd400
+
+            dist/github-snake-dark.svg?color_snake=%23ff005c&color_dots=%23161b22,%23ff005c,%23ff005c,%23b62bff,%23ffd400
+
+            dist/ocean.gif?color_snake=%23ff005c&color_dots=%23161b22,%23ff005c,%23ff005c,%23b62bff,%23ffd400
 
         env:
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
-      # Step 3: Deploy the generated files to the output branch
+      # Step 3: Deploy the generated files to the 'output' branch
+
       - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v4
+
+        uses: peaceiris/actions-gh-pages@v3
 
         with:
 
@@ -74,6 +83,8 @@ outputs: |
           publish_dir: ./dist
 
           publish_branch: output
+
+          # Optionally, you can set a custom commit message
 
           commit_message: "Update snake animation [skip ci]"
 
